@@ -1,0 +1,38 @@
+[
+  {
+    "name": "2B CBD apartment",
+    "price": "$1,500 PW",
+    "detail": "Level 3401/38 York Street, Sydney NSW 2000",
+    "image": "./p1.jpg"
+  },
+  {
+    "name": "2B Zetland apartment",
+    "price": "$980 PW",
+    "detail": "8 Sonny Leonard Street, Zetland NSW 2017",
+    "image": "./p2.jpg"
+  },
+  {
+    "name": "1B Zetland apartment",
+    "price": "$720 PW",
+    "detail": "26/1 Defries Avenue, Zetland NSW 2017",
+    "image": "./p3.jpg"
+  },
+  {
+    "name": "2B CBD apartment",
+    "price": "$1,500 PW",
+    "detail": "Level 3401/38 York Street, Sydney NSW 2000a",
+    "image": "./p1.jpg"
+  },
+  {
+    "name": "2B Zetland apartment",
+    "price": "$980 PW",
+    "detail": "8 Sonny Leonard Street, Zetland NSW 2017",
+    "image": "./p2.jpg"
+  },
+  {
+    "name": "1B Zetland apartment",
+    "price": "$720 PW",
+    "detail": "26/1 Defries Avenue, Zetland NSW 2017",
+    "image": "./p3.jpg"
+  }
+]
